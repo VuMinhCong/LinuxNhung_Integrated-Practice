@@ -1,0 +1,24 @@
+.button{
+color: blue;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+border-radius: 5px;
+}
+#info_btn{
+  color:black;
+
+}
+#default_btn{
+	color: white;
+	background: #484848;
+}
+#red_btn{
+	background: red;	   
+}
+#ready_btn{
+	background: green;
+}
+#unready_btn{
+	background: white;
+}
